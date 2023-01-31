@@ -6,6 +6,6 @@ const Button = styled('button', {
 
 export default function Home() {
   return (
-    <Button>oi</Button>
+    <h1>oi</h1>
   )
 }
